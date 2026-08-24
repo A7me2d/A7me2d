@@ -78,8 +78,17 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A7me2d&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=A7me2d&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&t=1" alt="trophies"/>
 </div>
+
+<!--
+  If the trophies above don't render, the shared vercel.app instance is likely
+  rate-limited (returns HTTP 402). Fix options:
+  1. Wait and retry later — it's usually temporary.
+  2. Self-host: fork https://github.com/ryo-ma/github-profile-trophy,
+     deploy your own free Vercel instance, and swap the URL above to point to it.
+-->
+
 
 <br>
 
