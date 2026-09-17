@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A7me2d&show_icons=true&theme=tokyonight&hide_border=true&count_github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A7me2d&show_icons=true&theme=tokyonight&hide_border=true&count_github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A7me2d&show_icons=true&theme=tokyonight&hide_border=true&count_github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A7me2d&show_icons=true&theme=tokyonight&hide_border=true&count_  <img src="https://github-readme-stats-git-  <img src="https://img.shields.io/badge/GitHub_Stats-View_Profile-2c5364?style=for-the-badge&logo=github" height="165" alt="GitHub stats"/>badge&logo=githubprivate=true&include_all_commits=trueimg.shields.io/badge/GitHub_Stats-View_Profile-2c5364?style=for-the-badge&logo=githubprivate=true&include_all_commits=trueimg.shields.io/badge/GitHub_Stats-View_Profile-2c5364?style=for-the-badge&logo=githubprivate=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A7me2d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com/?user=A7me2d&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 </div>
 
