@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A7me2d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A7me2d&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A7me2d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=A7me2d&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 </div>
 
 <div align="center">
@@ -78,7 +78,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A7me2d&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&t=1" alt="trophies"/>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=A7me2d&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&t=1" alt="trophies"/>
 </div>
 
 <!--
