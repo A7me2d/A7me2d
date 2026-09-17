@@ -61,7 +61,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/A7me2d"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" height="42" alt="GitHub profile"/></a>
+  <a href="https://github.com/A7me2d?tab=repositories"><img src="https://img.shields.io/badge/Repositories-65-2c5364?style=for-the-badge&logo=github" alt="Repositories"/></a>
+  <a href="https://github.com/A7me2d?tab=followers"><img src="https://img.shields.io/badge/Followers-6-00c6ff?style=for-the-badge&logo=github" alt="Followers"/></a>
+  <a href="https://github.com/A7me2d"><img src="https://img.shields.io/badge/Contributions-3.2k-7b61ff?style=for-the-badge&logo=github" alt="Contributions"/></a>
+  <br/>
+  <br/>
   <img src="https://streak-stats.demolab.com/?user=A7me2d&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 </div>
 
@@ -72,7 +76,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/A7me2d">View my contribution activity on GitHub</a>
+  <a href="https://github.com/A7me2d"><img src="https://img.shields.io/badge/View%20full%20contribution%20activity-181717?style=flat-square&logo=github" alt="View full contribution activity on GitHub"/></a>
 </div>
 
 <br>
