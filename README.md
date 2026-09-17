@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A7me2d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+  <a href="https://github.com/A7me2d"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" height="42" alt="GitHub profile"/></a>
   <img src="https://streak-stats.demolab.com/?user=A7me2d&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 </div>
 
