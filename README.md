@@ -61,16 +61,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A7me2d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+  <a href="https://github.com/A7me2d?tab=repositories"><img src="https://img.shields.io/badge/Repositories-65-2c5364?style=for-the-badge&logo=github" alt="Repositories"/></a>
+  <a href="https://github.com/A7me2d"><img src="https://img.shields.io/badge/Followers-6-00c6ff?style=for-the-badge&logo=github" alt="Followers"/></a>
   <img src="https://streak-stats.demolab.com/?user=A7me2d&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7me2d&locale=en&hide_title=true&layout=compact&card_width=440&langs_count=12&theme=tokyonight&hide_border=true" alt="languages graph"/>
+  <a href="https://github.com/A7me2d"><img src="https://img.shields.io/badge/Angular-TypeScript-DD0031?style=for-the-badge&logo=angular" alt="Angular and TypeScript"/></a>
+  <a href="https://github.com/A7me2d"><img src="https://img.shields.io/badge/C%23%20%7C%20SQL%20Server-512BD4?style=for-the-badge&logo=.net" alt="C Sharp and SQL Server"/></a>
+  <a href="https://github.com/A7me2d"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure"/></a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A7me2d&theme=tokyo-night&hide_border=true" width="90%" alt="activity graph"/>
+  <a href="https://github.com/A7me2d">View my contribution activity on GitHub</a>
 </div>
 
 <br>
